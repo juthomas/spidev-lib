@@ -23,7 +23,7 @@ into main directory do the following:
 * cd build
 * cmake ../
 * make 
-* make install
+* sudo make install
 
 This will create 2 statics libraries  libspidev-lib.a and libspidev-lib++.a
 You can link thoses libraries against your own code.
