@@ -19,11 +19,11 @@ How to build
 First of all you need cmake installed on your system.
 into main directory do the following: 
 
-* mkdir build
-* cd build
-* cmake ../
-* make 
-* sudo make install
+* `mkdir build`
+* `cd build`
+* `cmake ../`
+* `make` 
+* `sudo make install`
 
 This will create 2 statics libraries  libspidev-lib.a and libspidev-lib++.a
 You can link thoses libraries against your own code.
